@@ -10,4 +10,4 @@ elif operation == "*":
 elif operation =="/":
     print(first_number/second_number)
 else:
-    print("Invalid operation")
+    print("Invalid operation, cannot perform operation")
